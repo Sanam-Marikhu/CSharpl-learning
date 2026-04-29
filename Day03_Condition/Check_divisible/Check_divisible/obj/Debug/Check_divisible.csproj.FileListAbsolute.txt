@@ -1,0 +1,7 @@
+D:\dot_net_practice\Day03_Condition\Check_divisible\Check_divisible\bin\Debug\Check_divisible.exe.config
+D:\dot_net_practice\Day03_Condition\Check_divisible\Check_divisible\bin\Debug\Check_divisible.exe
+D:\dot_net_practice\Day03_Condition\Check_divisible\Check_divisible\bin\Debug\Check_divisible.pdb
+D:\dot_net_practice\Day03_Condition\Check_divisible\Check_divisible\obj\Debug\Check_divisible.csproj.AssemblyReference.cache
+D:\dot_net_practice\Day03_Condition\Check_divisible\Check_divisible\obj\Debug\Check_divisible.csproj.CoreCompileInputs.cache
+D:\dot_net_practice\Day03_Condition\Check_divisible\Check_divisible\obj\Debug\Check_divisible.exe
+D:\dot_net_practice\Day03_Condition\Check_divisible\Check_divisible\obj\Debug\Check_divisible.pdb

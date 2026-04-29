@@ -1,0 +1,7 @@
+D:\dot_net_practice\Day03_Condition\number_check\number_check\bin\Debug\number_check.exe.config
+D:\dot_net_practice\Day03_Condition\number_check\number_check\bin\Debug\number_check.exe
+D:\dot_net_practice\Day03_Condition\number_check\number_check\bin\Debug\number_check.pdb
+D:\dot_net_practice\Day03_Condition\number_check\number_check\obj\Debug\number_check.csproj.AssemblyReference.cache
+D:\dot_net_practice\Day03_Condition\number_check\number_check\obj\Debug\number_check.csproj.CoreCompileInputs.cache
+D:\dot_net_practice\Day03_Condition\number_check\number_check\obj\Debug\number_check.exe
+D:\dot_net_practice\Day03_Condition\number_check\number_check\obj\Debug\number_check.pdb
