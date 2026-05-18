@@ -18,7 +18,7 @@ namespace day_20
                 Console.Write(a + " ");
             }
             Console.WriteLine();
-            Console.WriteLine("Numbers in ascending order:");
+            Console.WriteLine("Numbers in descending order:");
             foreach (var e in sort)
             {
                 Console.Write(e + " ");
