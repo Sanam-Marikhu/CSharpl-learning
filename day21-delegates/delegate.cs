@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -31,6 +31,9 @@ namespace day21
             Calculation c = Add;
             c += Mul;
             c+= Sub;
+            c(x,y);
+            c-= Mul;
+            Console.WriteLine("After revoking mul()");
             c(x,y);
         
 
