@@ -11,7 +11,7 @@ namespace day18
     {
         static void Main(string[] args)
         {
-            File.Copy("data.txt", "backup.txt");
+            File.Copy("data.txt", "backup.txt",true);
             Console.WriteLine("File Copied Sucessfully");
             string data=File.ReadAllText("backup.txt");
             Console.WriteLine(data);
