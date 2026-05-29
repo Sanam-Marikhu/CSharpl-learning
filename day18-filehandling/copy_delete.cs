@@ -11,15 +11,25 @@ namespace day18
     {
         static void Main(string[] args)
         {
-            File.Copy("data.txt", "backup.txt",true);
-            Console.WriteLine("File Copied Sucessfully");
-            string data=File.ReadAllText("backup.txt");
-            Console.WriteLine(data);
-            if (File.Exists("backup.txt"))
+            try
             {
-                File.Delete("backup.txt");
-                Console.WriteLine("File Deleted");
+                
+                    File.Copy("data.txt", "backup.txt",true);
+                    Console.WriteLine("File Copied Sucessfully");
+                    string data=File.ReadAllText("backup.txt");
+                    Console.WriteLine(data);
+                    if (File.Exists("backup.txt"))
+                    {
+                        File.Delete("backup.txt");
+                        Console.WriteLine("File Deleted");
+                    }
+              
             }
+            catch(Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+                
         }
     }
 }
